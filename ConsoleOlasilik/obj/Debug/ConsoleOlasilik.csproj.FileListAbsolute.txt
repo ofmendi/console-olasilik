@@ -1,0 +1,6 @@
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\bin\Debug\ConsoleOlasilik.exe.config
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\obj\Debug\ConsoleOlasilik.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\bin\Debug\ConsoleOlasilik.exe
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\bin\Debug\ConsoleOlasilik.pdb
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\obj\Debug\ConsoleOlasilik.exe
+e:\documents\visual studio 2015\Projects\ConsoleOlasilik\ConsoleOlasilik\obj\Debug\ConsoleOlasilik.pdb
